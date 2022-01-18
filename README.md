@@ -1,1 +1,1 @@
-# SurveyGenerator
+JSON files are accepted as input for this tool. The JSON contains the survey inputs that the user is expected to provide. The software then constructs the frontend, backend, and database necessary to show the survey, save the replies, and display the responses.
